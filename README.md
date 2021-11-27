@@ -22,4 +22,4 @@
 
 2. [https://github.com/HoussemDellai/terraform-course/tree/main/13_storage_blob](https://github.com/HoussemDellai/terraform-course/tree/main/13_storage_blob)
 
-![storage-terraform-lab.PNG](storage-terraform-lab.PNG "terraform lab")
+![storage-terraform-lab.png](storage-terraform-lab.png "terraform lab")
