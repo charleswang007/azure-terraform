@@ -16,7 +16,7 @@
 
 3. [https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/storage_management_policy](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/storage_management_policy)
 
-# Tutorial: *Use Terraform to create an Azure storage account, with an container, then upload a file as a blob to the container, and create a public access to the blob.*
+## Tutorial: *Use Terraform to create an Azure storage account, with an container, then upload a file as a blob to the container, and create a public access to the blob.*
 
 1. [https://www.youtube.com/watch?v=gQmVad3hSmM](https://www.youtube.com/watch?v=gQmVad3hSmM)
 
